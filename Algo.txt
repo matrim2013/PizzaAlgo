@@ -1,12 +1,15 @@
 Decide where
+	b. Check store options
+	a. Find Deals
 Decide what
 Call location
 Place Order
-Provide Payment
+Provide Payment Type
 Track Order
 Meet delivery guy
-Sign paperwork
+Payment
+	a. sign
+	b. provide cash
 Receive Pizza
 Eat Pizza
 Be fat and happy
-Go to the bathroom
